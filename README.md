@@ -50,6 +50,37 @@ Feature: Kasir Demo Belajar QA
 ```bash
 npm install
 ```
+### Ganti wdio.conf setiap ingin menjalankan test pada specs and cucumberopts
+
+Ganti Specs jika ingin login
+```bash
+'./features/validlogin.feature'
+```
+
+Ganti CucumberOpts jika ingin login
+```bash
+'./features/step-definitions/validlogin.js'
+```
+
+Ganti Specs jika ingin invalid login
+```bash
+'./features/invalidlogin.feature'
+```
+
+Ganti CucumberOpts jika ingin invalid login
+```bash
+'./features/step-definitions/invalidlogin.js'
+```
+
+Ganti Specs jika ingin add category
+```bash
+'./features/addcategory.feature'
+```
+
+Ganti CucumberOpts jika ingin add category
+```bash
+'./features/step-definitions/addcategory.js'
+```
 
 Run test
 ```bash
