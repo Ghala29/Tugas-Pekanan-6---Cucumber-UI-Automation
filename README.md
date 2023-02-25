@@ -1,4 +1,4 @@
-# Tugas-Pekanan-6---Cucumber-UI-Automation
+# Tugas-Pekanan-6-Cucumber-UI-Automation
 By Ghala Sudana
 
 ## Scenario Test 
